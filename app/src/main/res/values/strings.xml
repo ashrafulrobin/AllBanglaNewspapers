@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">All Bangla Newspapers</string>
+    <string name="option1">প্রথম আলো</string>
+    <string name="option2">কালের কণ্ঠ</string>
+
+    <string name="option3">দৈনিক যুগান্তর</string>
+
+    <string name="option4">বাংলাদেশ প্রতিদিন</string>
+
+    <string name="option5">নয়া দিগন্ত</string>
+
+    <string name="option6">জনকন্ঠ</string>
+
+    <string name="option7">আমাদের সময়</string>
+
+    <string name="option8">দৈনিক ইত্তেফাক</string>
+
+    <string name="option9">মানবজমিন</string>
+
+    <string name="option10">বিডিজবস্ ডট কম</string>
+
+
+</resources>
